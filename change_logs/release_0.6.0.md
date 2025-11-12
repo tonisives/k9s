@@ -18,7 +18,7 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ### K9s Got Skins
 
-You can now skin K9s based on your own sense of style. Skinning, is currently limited to color variations and is still very much experimental. More details on how to achieve this is provided in the README and skins sample directory on this repo. This could be a prime opportunity for someone to contribute to this project and help us come up with some cooler looks and share with all K9s folks. Any cool skins contributed will be added and featured in this repo 🐶!
+You can now skin K9s based on your own sense of style. Skinning, is currently limited to color variations and is still very much experimental. More details on how to achieve this is provided in the README and skins sample directory on this repo. This could be a prime opportunity for someone to contribute to this project and help us come up with some cooler looks and share with all K9s folks. Any cool skins contributed will be added and featured in this repo!
 
 ### Possible instability
 

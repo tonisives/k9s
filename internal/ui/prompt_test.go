@@ -30,7 +30,7 @@ func TestCmdNew(t *testing.T) {
 		"cmd-ic": {
 			mode: ':',
 			kind: model.CommandBuffer,
-			e:    "🐶> [::b]blee\n",
+			e:    ">> [::b]blee\n",
 		},
 
 		"search": {
@@ -43,7 +43,7 @@ func TestCmdNew(t *testing.T) {
 		"search-ic": {
 			mode: '/',
 			kind: model.FilterBuffer,
-			e:    "🐩/ [::b]blee\n",
+			e:    "// [::b]blee\n",
 		},
 	}
 

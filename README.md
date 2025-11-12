@@ -1,5 +1,4 @@
-Can I work on my cluster without seeing dog emojis?
-tonisives/k9s
+# tonisives/k9s
 
 ## K9s - Kubernetes CLI To Manage Your Clusters In Style!
 

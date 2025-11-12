@@ -291,9 +291,9 @@ func (p *Prompt) prefixesFor(k model.BufferKind) (ic, prefix rune) {
 	//nolint:exhaustive
 	switch k {
 	case model.CommandBuffer:
-		return '🐶', '>'
+		return '>', '>'
 	default:
-		return '🐩', '/'
+		return '/', '/'
 	}
 }
 

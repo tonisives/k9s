@@ -131,7 +131,7 @@ func run(*cobra.Command, []string) error {
 }
 
 func loadConfiguration() (*config.Config, error) {
-	slog.Info("🐶 K9s starting up...")
+	slog.Info("K9s starting up...")
 
 	k8sCfg := client.NewConfig(k8sFlags)
 	k9sCfg := config.NewConfig(k8sCfg)
