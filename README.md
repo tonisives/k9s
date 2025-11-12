@@ -1,5 +1,7 @@
 # tonisives/k9s
 
+Work on the cluster without seeing dog emojis/references
+
 ## K9s - Kubernetes CLI To Manage Your Clusters In Style!
 
 K9s provides a terminal UI to interact with your Kubernetes clusters.
